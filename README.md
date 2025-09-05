@@ -1,2 +1,2 @@
-# plagiarism_checker
-Trying to make plagiarism checker to learn more about python
+# wordle_copy
+Trying to make wordle copy to learn more about python
